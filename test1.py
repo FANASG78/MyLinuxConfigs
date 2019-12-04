@@ -1,1 +1,1 @@
-print ('Hellowy world')
+print ('Hello world')
